@@ -1,4 +1,4 @@
-# CatalogIA
+# CatalogAI
 
 Sistema de e-commerce potenciado por IA con funcionalidades de búsqueda semántica y recomendaciones personalizadas.
 
